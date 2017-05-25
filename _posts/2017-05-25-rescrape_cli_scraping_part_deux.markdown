@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Rescrape: CLI scraping, part deux
-date:   2017-05-25 01:59:28 +0000
+date:   2017-05-24 21:59:28 -0400
 ---
 
 Over the past few weeks I completed my first portfolio project [ScrapeIndeed](https://github.com/nicholasbair/scrape_indeed), SQL, ORMs and ActiveRecord.
