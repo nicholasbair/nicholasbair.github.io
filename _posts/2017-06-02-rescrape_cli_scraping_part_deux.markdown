@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Rescrape: CLI scraping, part deux
-date:   2017-06-02 22:18:52 +0000
+date:   2017-06-02 18:18:53 -0400
 ---
 
 Over the past few weeks I completed my first portfolio project [ScrapeIndeed](https://github.com/nicholasbair/scrape_indeed), SQL, ORMs and ActiveRecord.
@@ -25,7 +25,7 @@ these into issues in the github repo using Waffle.io.  You can close issues with
 ```
 git commit -m "Refactor scraper class, closes #1."
 ```
-![waffle4](https://cloud.githubusercontent.com/assets/8889403/26418231/6e3c6678-4089-11e7-8b65-a0ad35edfcf0.gif)
+
 
 ### What worked?
 I struggled a little getting ActiveRecord setup--in fact as of writing this, I have not gotten rake db:create to work.  Instead I am running migrations, then seeding the DB.  Once up and running, ActiveRecord makes life pretty darn easy.
