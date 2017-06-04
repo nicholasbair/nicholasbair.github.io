@@ -24,6 +24,7 @@ Next hurdle, a dog name should be unique--easy enough, ActiveRecord provides a u
 ![screen shot 2017-06-04 at 12 20 21 pm](https://cloud.githubusercontent.com/assets/8889403/26763416/95ac1b96-4920-11e7-897c-dcd8f3d066cc.png)
 
 *Adding ActiveSupport*
+
 In preparation for moving on to the rails section for the curriculum, I've been poking around the rails documentation.  ActiveSupport is a rails sub-gem that provides language utilities.  For example, how does ActiveRecord know that if a table is called activities the model will be activity?  I added ActiveSupport for one method: humanize (not efficient!). From rails docs:
 ![screen shot 2017-06-04 at 12 19 37 pm](https://cloud.githubusercontent.com/assets/8889403/26763410/83bc8808-4920-11e7-8a32-a5ffa33b3c3d.png)
 
