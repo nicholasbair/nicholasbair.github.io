@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Rescrape: CLI scraping, part deux
+title:  "Rescrape: CLI scraping, part deux"
 date:   2017-06-02 18:18:53 -0400
 ---
 
