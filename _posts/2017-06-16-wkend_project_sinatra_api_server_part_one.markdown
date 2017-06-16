@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Wkend Project: Sinatra API Server, Part One"
-date:   2017-06-16 23:01:50 +0000
+date:   2017-06-16 19:01:52 -0400
 ---
 
 
@@ -31,7 +31,7 @@ The nice thing about an API server, at least in this context, is the client is r
 
 ![parse-request](https://user-images.githubusercontent.com/8889403/27247305-47514c2e-52c5-11e7-8842-0275f552398e.png)
 
-The form content comes from the client in the request body, so we convert it to JSON, and use a neat method #with_indifferent_access.  This allows us to access items cached in 'req' using dot notation.
+The form content comes from the client in the request body, so we convert it to JSON, and use a neat method #with_indifferent_access.  This allows us easy access items cached in 'req'.
 
 ![login](https://user-images.githubusercontent.com/8889403/27247309-5386bbfa-52c5-11e7-85a3-b640955fd9c6.png)
 
