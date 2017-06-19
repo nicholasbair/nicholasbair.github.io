@@ -4,7 +4,7 @@ header-img: img/home-bg.png
 email: bairinc@gmail.com
 copyright_name: nicholasbair
 description: > # this means to ignore newlines until "baseurl:"
-  // Insert something funny here
+  //
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: _nickbair
 github_username:  nicholasbair
